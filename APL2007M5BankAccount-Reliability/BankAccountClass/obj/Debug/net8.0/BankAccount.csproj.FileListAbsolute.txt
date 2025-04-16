@@ -1,0 +1,14 @@
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\bin\Debug\net8.0\BankAccount.exe
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\bin\Debug\net8.0\BankAccount.deps.json
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\bin\Debug\net8.0\BankAccount.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\bin\Debug\net8.0\BankAccount.pdb
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\refint\BankAccount.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.pdb
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\ref\BankAccount.dll

@@ -1,0 +1,14 @@
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-CodeLogicChallenge\bin\Debug\net8.0\APL2007M3SalesReport.exe
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-CodeLogicChallenge\bin\Debug\net8.0\APL2007M3SalesReport.deps.json
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-CodeLogicChallenge\bin\Debug\net8.0\APL2007M3SalesReport.runtimeconfig.json
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-CodeLogicChallenge\bin\Debug\net8.0\APL2007M3SalesReport.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-CodeLogicChallenge\bin\Debug\net8.0\APL2007M3SalesReport.pdb
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.AssemblyInfoInputs.cache
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.AssemblyInfo.cs
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.csproj.CoreCompileInputs.cache
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\refint\APL2007M3SalesReport.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.pdb
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.genruntimeconfig.cache
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\ref\APL2007M3SalesReport.dll

@@ -1,0 +1,14 @@
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4SalesReport\SalesReportApp\bin\Debug\net8.0\APL2007M4.exe
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4SalesReport\SalesReportApp\bin\Debug\net8.0\APL2007M4.deps.json
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4SalesReport\SalesReportApp\bin\Debug\net8.0\APL2007M4.runtimeconfig.json
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4SalesReport\SalesReportApp\bin\Debug\net8.0\APL2007M4.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4SalesReport\SalesReportApp\bin\Debug\net8.0\APL2007M4.pdb
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.AssemblyInfoInputs.cache
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.AssemblyInfo.cs
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.csproj.CoreCompileInputs.cache
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\refint\APL2007M4.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.pdb
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.genruntimeconfig.cache
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\ref\APL2007M4.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "F0VEIa/DTNc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\horeb\\Documents\\GitHub\\unit-tests-using-github-copilot-tools\\APL2007M5BankAccount-Security\\BankAccountClass\\BankAccount.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\horeb\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\horeb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\horeb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\horeb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

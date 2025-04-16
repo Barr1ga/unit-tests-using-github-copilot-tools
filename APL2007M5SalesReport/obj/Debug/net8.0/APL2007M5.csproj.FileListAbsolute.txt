@@ -1,0 +1,14 @@
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5SalesReport\bin\Debug\net8.0\APL2007M5.exe
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5SalesReport\bin\Debug\net8.0\APL2007M5.deps.json
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5SalesReport\bin\Debug\net8.0\APL2007M5.runtimeconfig.json
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5SalesReport\bin\Debug\net8.0\APL2007M5.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5SalesReport\bin\Debug\net8.0\APL2007M5.pdb
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5SalesReport\obj\Debug\net8.0\APL2007M5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5SalesReport\obj\Debug\net8.0\APL2007M5.AssemblyInfoInputs.cache
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5SalesReport\obj\Debug\net8.0\APL2007M5.AssemblyInfo.cs
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5SalesReport\obj\Debug\net8.0\APL2007M5.csproj.CoreCompileInputs.cache
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5SalesReport\obj\Debug\net8.0\APL2007M5.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5SalesReport\obj\Debug\net8.0\refint\APL2007M5.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5SalesReport\obj\Debug\net8.0\APL2007M5.pdb
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5SalesReport\obj\Debug\net8.0\APL2007M5.genruntimeconfig.cache
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5SalesReport\obj\Debug\net8.0\ref\APL2007M5.dll
