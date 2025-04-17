@@ -411,6 +411,16 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Numbers/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Numbers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Numbers.dll": {}
+        }
       }
     }
   },
@@ -932,11 +942,17 @@
         "xunit.runner.visualstudio.2.8.2.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Numbers/1.0.0": {
+      "type": "project",
+      "path": "../../APL2007M4PrimeService-UnitTests/Numbers/Numbers.csproj",
+      "msbuildProject": "../../APL2007M4PrimeService-UnitTests/Numbers/Numbers.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.NET.Test.Sdk >= 17.12.0",
+      "Numbers >= 1.0.0",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
       "xunit.runner.visualstudio >= 2.8.2"
@@ -969,7 +985,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\horeb\\Documents\\GitHub\\unit-tests-using-github-copilot-tools\\APL2007M4PrimeService-UnitTests\\Numbers\\Numbers.csproj": {
+              "projectPath": "C:\\Users\\horeb\\Documents\\GitHub\\unit-tests-using-github-copilot-tools\\APL2007M4PrimeService-UnitTests\\Numbers\\Numbers.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
