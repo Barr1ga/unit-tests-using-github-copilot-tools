@@ -96,3 +96,4 @@ C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4P
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4PrimeService\PrimeService.UnitTests\obj\Debug\net9.0\PrimeService.UnitTests.pdb
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4PrimeService\PrimeService.UnitTests\obj\Debug\net9.0\PrimeService.UnitTests.genruntimeconfig.cache
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4PrimeService\PrimeService.UnitTests\obj\Debug\net9.0\ref\PrimeService.UnitTests.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M4PrimeService\PrimeService.UnitTests\obj\Debug\net9.0\PrimeService.UnitTests.sourcelink.json

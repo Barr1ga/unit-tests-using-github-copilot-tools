@@ -7,3 +7,4 @@ C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M2S
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.AssemblyInfoInputs.cache
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.AssemblyInfo.cs
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.csproj.CoreCompileInputs.cache
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.sourcelink.json

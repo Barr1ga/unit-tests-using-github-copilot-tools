@@ -103,3 +103,4 @@ C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5B
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount\BankAccount.UnitTests\obj\Debug\net8.0\BankAccount.UnitTests.pdb
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount\BankAccount.UnitTests\obj\Debug\net8.0\BankAccount.UnitTests.genruntimeconfig.cache
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount\BankAccount.UnitTests\obj\Debug\net8.0\ref\BankAccount.UnitTests.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount\BankAccount.UnitTests\obj\Debug\net8.0\BankAccount.UnitTests.sourcelink.json

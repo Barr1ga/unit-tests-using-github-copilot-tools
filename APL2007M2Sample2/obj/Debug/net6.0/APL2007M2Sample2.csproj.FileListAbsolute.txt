@@ -55,3 +55,4 @@ C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M2S
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M2Sample2\obj\Debug\net6.0\APL2007M2Sample2.pdb
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M2Sample2\obj\Debug\net6.0\APL2007M2Sample2.genruntimeconfig.cache
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M2Sample2\obj\Debug\net6.0\ref\APL2007M2Sample2.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M2Sample2\obj\Debug\net6.0\APL2007M2Sample2.sourcelink.json

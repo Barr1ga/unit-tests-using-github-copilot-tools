@@ -12,3 +12,4 @@ C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3S
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-SalesOrders\obj\Debug\net8.0\APL2007M3SalesReport-SalesOrders.pdb
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-SalesOrders\obj\Debug\net8.0\APL2007M3SalesReport-SalesOrders.genruntimeconfig.cache
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-SalesOrders\obj\Debug\net8.0\ref\APL2007M3SalesReport-SalesOrders.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-SalesOrders\obj\Debug\net8.0\APL2007M3SalesReport-SalesOrders.sourcelink.json

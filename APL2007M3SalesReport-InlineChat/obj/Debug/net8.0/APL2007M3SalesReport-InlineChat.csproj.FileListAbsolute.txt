@@ -12,3 +12,4 @@ C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3S
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.pdb
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.genruntimeconfig.cache
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\ref\APL2007M3SalesReport-InlineChat.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.sourcelink.json

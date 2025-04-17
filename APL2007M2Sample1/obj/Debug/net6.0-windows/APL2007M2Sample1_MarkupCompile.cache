@@ -1,18 +1,18 @@
 ﻿APL2007M2Sample1
-1.0.0.0
+
 
 winexe
 C#
 .cs
-c:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M2Sample1\obj\Debug\net6.0-windows\
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M2Sample1\obj\Debug\net6.0-windows\
 APL2007M2Sample1
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-c:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M2Sample1\App.xaml
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M2Sample1\App.xaml
 11407045341
 
-4892692451
+2-1958734538
 194977460421
 MainWindow.xaml;
 

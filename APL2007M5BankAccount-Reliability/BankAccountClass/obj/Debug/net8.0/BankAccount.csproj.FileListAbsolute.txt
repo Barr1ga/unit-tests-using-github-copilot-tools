@@ -12,3 +12,4 @@ C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5B
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.pdb
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
 C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\ref\BankAccount.dll
+C:\Users\horeb\Documents\GitHub\unit-tests-using-github-copilot-tools\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.sourcelink.json
